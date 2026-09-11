@@ -38,6 +38,14 @@ Transforms environmental measurements into easy-to-understand insights and recom
 
 Visualizes environmental trends over the last seven days.
 
+## Design
+
+## Design
+
+The user interface was designed and prototyped in Figma, focusing on a clean and intuitive experience for understanding environmental conditions.
+
+**Figma Design:** [View AirAware on Figma](https://www.figma.com/design/K29OkBJe7MjQMvKb6XrMX0/AirAware?node-id=0-1&t=ZKZEKPyrdoRuh9R1-1)
+
 ## Tech Stack
 
 - Swift
