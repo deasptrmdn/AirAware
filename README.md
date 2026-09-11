@@ -22,23 +22,19 @@ The current MVP uses simulated environmental data to demonstrate the application
 
 ## Screenshots
 
-### Home
+## Screenshots
 
-The Home screen provides an overview of the user's current environmental conditions.
+### Home
+![Home](home.png)
 
 ### Environmental Details
-
-Displays temperature, humidity, and air quality with simple interpretations.
+![Environmental Details](details.png)
 
 ### Insights
-
-Transforms environmental measurements into easy-to-understand insights and recommendations.
+![Insights](insights.png)
 
 ### History
-
-Visualizes environmental trends over the last seven days.
-
-## Design
+![History](history.png)
 
 ## Design
 
